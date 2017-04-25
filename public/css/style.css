@@ -1,0 +1,29 @@
+.login {
+	margin-top: 75px;
+	margin-right: 10px;
+	/*padding-bottom: 75px;
+	padding-right: 10px;*/
+}
+.clear:after {
+	clear: both;
+}
+.leftLogin {
+	float: left;
+}
+.rightLogin {
+	float: right;
+	font-size: .85em;
+}
+.col-xs-12 {
+	padding: 15px;
+}
+.btn-default:hover {
+	color: #0d0c0a;
+    background-color: #b4762d;
+    font-weight: bold;
+}
+
+.btn-default:focus {
+	color: #b4762d;
+    background-color: #e6e6e6;
+}
